@@ -5,7 +5,7 @@
 ## 🚀 About Me
 Fourth-year Software Engineering student with internship experience at **Lockheed Martin** and **Bayer Radiology**. Passionate about building innovative and scalable solutions. 🎓 Graduating May 2026
 
-🖥️ Check out my [command line portfolio](https://github.com/jm0ran/ptui-portfolio) for an interactive experience!
+🖥️ Check out my [command line portfolio](https://jm0ran.github.io/ptui-portfolio/) for an interactive experience!
 
 ## 💼 Skills
 - **Languages**: Java, Python, C, C++, Rust, JavaScript
